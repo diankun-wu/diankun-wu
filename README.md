@@ -2,7 +2,7 @@
 
 - 😄 My name is Diankun Wu, and I'm a first-year Ph.D. student at the Department of Electronic Engineering, Tsinghua University, advised by Prof. Yueqi Duan.
 - 🎓 Previously, I received my Bachelor's degree from the Department of Automation, Tsinghua University.
-- 💡 I'm interested in Multimodal Understanding & Generation， with a specific focus on **World Models** and **Spatial Intelligence**.
+- 💡 I'm interested in Multimodal Understanding & Generation, with a specific focus on **World Models** and **Spatial Intelligence**.
 - 📫 Contact : [wdk21@mails.tsinghua.edu.cn](mailto:wdk21@mails.tsinghua.edu.cn)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diankun-wu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
